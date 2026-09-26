@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Murmur</h1>
 
-<!--
-**murmur403/murmur403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cybersecurity Student | Pentesting & Web Security</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ciberseguridad**
+- 🐳 Practicando **pentesting** con [DockerLabs](https://dockerlabs.es/) y [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- 🌱 Aprendiendo: **SQL Injection**, **escalada de privilegios**, **bug bounty**
+- 🎯 Objetivo: **eJPT / OSCP** y participar en programas de **bug bounty** como [Intigriti](https://www.intigriti.com/)
+- 📫 Contacto: **murmur_403@proton.me**
+
+---
+
+## 🛠️ Skills & Herramientas
+
+**Reconocimiento**
+![nmap](https://img.shields.io/badge/-nmap-blue)
+![whatweb](https://img.shields.io/badge/-whatweb-lightgrey)
+
+**Enumeración web**
+![gobuster](https://img.shields.io/badge/-gobuster-orange)
+![ffuf](https://img.shields.io/badge/-ffuf-yellow)
+
+**Fuerza bruta**
+![hydra](https://img.shields.io/badge/-hydra-red)
+
+**Proxy/Intercept**
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-purple)
+
+**Escalada de privilegios**
+![GTFObins](https://img.shields.io/badge/-GTFObins-green)
+![linpeas](https://img.shields.io/badge/-linpeas-brightgreen)
+
+---
+
+## 📂 Repositorios destacados
+
+| Repo | Descripción |
+|------|-------------|
+| [🐳 dockerlabs](https://github.com/murmur403/dockerlabs) | Writeups de máquinas resueltas en DockerLabs |
+| [🧪 Portswigger-labs](https://github.com/murmur403/Portswigger-labs) | Soluciones de PortSwigger Web Security Academy |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murmur403&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murmur403&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📖 Writeups recientes
+
+- 🏖️ [Vacaciones](https://github.com/murmur403/dockerlabs/blob/main/vacaciones.md) — Hydra + GTFObins (ruby)
+- 💬 [Obsession](https://github.com/murmur403/dockerlabs/blob/main/obsession.md) — FTP anónimo + Hydra + GTFObins (vim)
+- 🎯 [Tproot](https://github.com/murmur403/dockerlabs/blob/main/tproot.md) — vsftpd 2.3.4 backdoor (CVE-2011-2523)
+- 🧪 [SQL Injection Oracle](https://github.com/murmur403/Portswigger-labs/blob/main/sql-injection-oracle.md) — Querying database type and version
+- 🧪 [Blind SQL Injection](https://github.com/murmur403/Portswigger-labs/blob/main/blind-sql-injection-time-delays.md) — Time delays
+
+---
+
+## 🌐 Contacto
+
+[![Email](https://img.shields.io/badge/-murmur__403%40proton.me-blue)](mailto:murmur_403@proton.me)
+[![GitHub](https://img.shields.io/badge/-murmur403-black)](https://github.com/murmur403)
+
+---
+
+<p align="center">
+  <i>"La seguridad no es un producto, es un proceso."</i>
+</p>
