@@ -47,15 +47,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murmur403&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murmur403&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murmur403&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murmur403&layout=compact&theme=dark)
 
 ## 📖 Writeups recientes
 
