@@ -58,6 +58,7 @@
 - 🎯 [Tproot](https://github.com/murmur403/dockerlabs/blob/main/tproot.md) — vsftpd 2.3.4 backdoor (CVE-2011-2523)
 - 🧪 [SQL Injection Oracle](https://github.com/murmur403/Portswigger-labs/blob/main/sql-injection-oracle.md) — Querying database type and version
 - 🧪 [Blind SQL Injection](https://github.com/murmur403/Portswigger-labs/blob/main/blind-sql-injection-time-delays.md) — Time delays
+- 🧪 [DOM XSS document.write](https://github.com/murmur403/Portswigger-labs/blob/main/dom-xss-document-write-select.md) — Sink dentro de `<select>`
 
 ---
 
