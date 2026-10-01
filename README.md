@@ -61,6 +61,7 @@
 - 🧪 [DOM XSS document.write](https://github.com/murmur403/Portswigger-labs/blob/main/dom-xss-document-write-select.md) — Sink dentro de `<select>`
 - 🥚 [BorazuwarahCTF](https://github.com/murmur403/dockerlabs/blob/main/borazuwarahctf.md) — Esteganografía + Hydra + GTFObins (bash)
 - 🧪 [Reflected DOM XSS](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-dom-xss.md) — `eval()` + bypass de escape
+- 🦔 [HedgeHog](https://github.com/murmur403/dockerlabs/blob/main/hedgehog.md) — Enumeración con w3m + Hydra + sudo chain
 
 ---
 
