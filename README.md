@@ -62,6 +62,7 @@
 - 🥚 [BorazuwarahCTF](https://github.com/murmur403/dockerlabs/blob/main/borazuwarahctf.md) — Esteganografía + Hydra + GTFObins (bash)
 - 🧪 [Reflected DOM XSS](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-dom-xss.md) — `eval()` + bypass de escape
 - 🦔 [HedgeHog](https://github.com/murmur403/dockerlabs/blob/main/hedgehog.md) — Enumeración con w3m + Hydra + sudo chain
+- 🧪 [Stored DOM XSS](https://github.com/murmur403/Portswigger-labs/blob/main/stored-dom-xss.md) — Bypass de `replace()`
 
 ---
 
