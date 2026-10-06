@@ -64,6 +64,7 @@
 - 🦔 [HedgeHog](https://github.com/murmur403/dockerlabs/blob/main/hedgehog.md) — Enumeración con w3m + Hydra + sudo chain
 - 🧪 [Stored DOM XSS](https://github.com/murmur403/Portswigger-labs/blob/main/stored-dom-xss.md) — Bypass de `replace()`
 - 🕵️ [Mystery Challenge SQLi](https://github.com/murmur403/Portswigger-labs/blob/main/mystery-challenge-sqli-union.md) — UNION-based contra PostgreSQL
+- 🐧 [FirstHacking](https://github.com/murmur403/dockerlabs/blob/main/firsthacking.md) — vsftpd 2.3.4 backdoor (CVE-2011-2523)
 
 ---
 
