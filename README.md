@@ -68,6 +68,7 @@
 - 🔓 [BreakMySSH](https://github.com/murmur403/dockerlabs/blob/main/breakmyssh.md) — Fuerza bruta SSH con Hydra
 - 🧪 [Reflected XSS WAF bypass](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-waf-bypass.md) — Enumeración con Intruder + iframe
 - 🧪 [Reflected XSS custom tags](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-custom-tags.md) — Bypass con etiquetas personalizadas
+- 🎯 [Trust](https://github.com/murmur403/dockerlabs/blob/main/trust.md) — Enumeración web + Hydra + GTFObins (vim)
 ---
 
 ## 🌐 Contacto
