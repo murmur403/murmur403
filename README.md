@@ -70,6 +70,7 @@
 - 🧪 [Reflected XSS custom tags](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-custom-tags.md) — Bypass con etiquetas personalizadas
 - 🎯 [Trust](https://github.com/murmur403/dockerlabs/blob/main/trust.md) — Enumeración web + Hydra + GTFObins (vim)
 - 🧪 [Reflected XSS SVG](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-svg-markup.md) — Bypass con etiquetas SVG
+- 🧪 [Reflected XSS canonical link](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-canonical-link-tag.md) — `accesskey` + `onclick`
 ---
 
 ## 🌐 Contacto
