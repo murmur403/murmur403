@@ -73,6 +73,7 @@
 - 🧪 [Reflected XSS canonical link](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-canonical-link-tag.md) — `accesskey` + `onclick`
 - 🧪 [Reflected XSS JS string](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-js-string-escaped.md) — Romper `<script>` con `</script>`
 - 🧪 [Reflected XSS JS backslash](https://github.com/murmur403/Portswigger-labs/blob/main/reflected-xss-js-string-backslash.md) — Escape del escape con `\'`
+- 🧪 [Stored XSS onclick](https://github.com/murmur403/Portswigger-labs/blob/main/stored-xss-onclick.md) — Bypass con `&apos;`
 ---
 
 ## 🌐 Contacto
